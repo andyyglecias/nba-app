@@ -64,9 +64,9 @@
           <!-- Home page posts -->
 
           <footer class="split-footer">
-            <a href="post.html">About</a>
+            <a href="post.html">Chicago Bulls</a>
             <i class="link-spacer"></i>
-            <a href="post.html">Writer 2015</a>
+            <a href="post.html">Latest News</a>
           </footer>
         </section>
         <!-- main content -->
