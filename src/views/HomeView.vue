@@ -16,10 +16,6 @@
           </li>
           <li><i class="fa fa-file"></i><a href="post.html">Post Page</a></li>
           <li>
-            <i class="fa fa-file"></i
-            ><a href="post-sidebar.html">Post with Sidebar</a>
-          </li>
-          <li>
             <i class="fa fa-home"></i><a href="alt-home.html">Alternate Home</a>
           </li>
           <li>
