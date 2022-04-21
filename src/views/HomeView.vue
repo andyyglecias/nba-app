@@ -107,7 +107,7 @@
             <article class="post">
               <div class="post-preview col-xs-10 no-gutter">
                 <h2>
-                  <a href="post.html">{{ article.title }}</a>
+                  <a href="post.html"></a>
                 </h2>
 
                 <p>
