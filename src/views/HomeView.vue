@@ -42,7 +42,7 @@
                   {{ article.title }}
                 </h2>
 
-                <h4><a>Read Full Article</a></h4>
+                <h4><a v-bind:href="article.url">Read Full Article</a></h4>
 
                 <p class="meta">
                   Source:
