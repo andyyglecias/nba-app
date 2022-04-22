@@ -50,7 +50,7 @@
 
               <div class="col-xs-2 no-gutter">
                 <img
-                  src="img/bulls-logo-2.jpg"
+                  src="img/basketball-2.jpg"
                   class="user-icon"
                   alt="user-image"
                 />
@@ -90,7 +90,7 @@ export default {
 
     const options = {
       method: "GET",
-      url: "https://nba-latest-news.p.rapidapi.com/news/team/bulls",
+      url: "https://nba-latest-news.p.rapidapi.com/news",
       headers: {
         "X-RapidAPI-Host": "nba-latest-news.p.rapidapi.com",
         "X-RapidAPI-Key": "d503e56faamshdb8474da44d9ec0p1416dbjsnb664c0606337",
@@ -100,7 +100,6 @@ export default {
     axios
       .request(options)
       .then((response) => {
-        console.log(response.data);
         console.log(response.data);
         this.articles = response.data;
       })
