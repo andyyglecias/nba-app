@@ -60,7 +60,7 @@
           <!-- Home page posts -->
 
           <footer class="split-footer">
-            <a href="post.html">Chicago Bulls</a>
+            <a href="post.html">NBA</a>
             <i class="link-spacer"></i>
             <a href="post.html">Latest News</a>
           </footer>
