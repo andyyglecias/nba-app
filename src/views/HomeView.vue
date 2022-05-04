@@ -45,8 +45,7 @@ export default {
       teamFilter: "",
     };
   },
-  created: function () {},
-  mounted: function () {
+  created: function () {
     const axios = require("axios");
 
     const options = {
